@@ -1,0 +1,35 @@
+{
+  "name": "gumiho",
+  "version": "1.0.0",
+  "description": "Korean nine-tailed fox spirit - malevolent shapeshifter that preys on humans",
+  "category": "MYTHOLOGICAL_CREATURE",
+  "keywords": [
+    "gumiho",
+    "nine-tailed fox",
+    "Korean mythology",
+    "fox spirit",
+    "shapeshifter",
+    "kumiho",
+    "구미호",
+    "nine tails",
+    "Korean folklore",
+    "fox demon",
+    "yeowu guseul",
+    "fox bead",
+    "Korean creature",
+    "East Asian mythology",
+    "transformation"
+  ],
+  "culturalOrigin": "Korean",
+  "relatedPhenomena": [
+    "kitsune",
+    "huli-jing",
+    "dokkaebi",
+    "fox-sister",
+    "shapeshifters",
+    "demons"
+  ],
+  "lastUpdated": "2026-01-14",
+  "dangerLevel": "High",
+  "type": "Malevolent Spirit"
+}
