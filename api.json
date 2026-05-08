@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/gumiho",
     "maintainers": [
       {
@@ -16,71 +16,127 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "gumiho",
-    "name": "Gumiho (구미호)",
-    "aliases": [],
-    "category": "MYTHOLOGICAL_CREATURE",
-    "subcategory": "Unknown",
+    "name": "Gumiho",
+    "aliases": [
+      { "name": "구미호", "language": "Korean (Hangul)", "meaning": "'nine-tailed fox'" },
+      { "name": "九尾狐", "language": "Korean (Hanja)", "meaning": "literally 'nine-tail fox'" },
+      { "name": "Kumiho", "language": "Korean (McCune–Reischauer romanization)" },
+      { "name": "Huli jing", "language": "Chinese", "region": "China", "meaning": "Chinese counterpart fox spirit" },
+      { "name": "Kitsune", "language": "Japanese", "region": "Japan", "meaning": "Japanese counterpart fox spirit" },
+      { "name": "Hồ ly tinh", "language": "Vietnamese", "region": "Vietnam", "meaning": "Vietnamese counterpart fox spirit" }
+    ],
+    "category": "SHAPESHIFTER",
+    "subcategory": "Fox spirit (Korean)",
     "tags": [
-      "and-themes"
+      "korean-folklore",
+      "fox-spirit",
+      "nine-tailed-fox",
+      "shapeshifter",
+      "east-asian-mythology",
+      "feminine-supernatural"
     ],
     "status": "documented",
     "description": {
-      "summary": "The gumiho is a legendary nine-tailed fox from Korean mythology, distinct from its Chinese (huli jing) and Japanese (kitsune) counterparts.",
-      "full": "The gumiho is a legendary nine-tailed fox from Korean mythology, distinct from its Chinese (huli jing) and Japanese (kitsune) counterparts. In Korean folklore, the gumiho is traditionally portrayed as a malevolent creature that preys on humans, particularly targeting men. Unlike the potentially benevolent foxes of Chinese and Japanese traditions, Korean gumiho are almost universally depicted as dangerous predators that must consume human flesh or organs, especially livers or hearts, to survive or become human."
+      "summary": "The gumiho is a nine-tailed fox spirit of Korean folklore, typically depicted as a shapeshifting woman who feeds on humans — particularly their livers or hearts — to sustain or transform her supernatural existence.",
+      "full": "The gumiho (Korean 구미호 / Hanja 九尾狐, 'nine-tailed fox') is the Korean variant of the East Asian nine-tailed fox spirit, sharing a common ancestry with the Chinese huli jing and Japanese kitsune but developing distinctive Korean features under successive Buddhist, shamanist, and Confucian influences. Earliest references appear in the 12th-century Samguk Sagi and the 13th-century Samguk Yusa, where foxes function variously as omens, mountain-deity helpers, and shapeshifting tricksters. The specifically nine-tailed form becomes prominent from the Goryeo period onward, including in the writings of Yi Kyu-bo (1168–1241). In classical Korean folktales the gumiho is overwhelmingly a malevolent figure: a thousand-year-old fox capable of taking the form of a beautiful woman, who must consume human flesh — most famously the liver — to survive or to complete her transformation into a human being. Where the Chinese huli jing and Japanese kitsune span benevolent and malevolent roles, the Korean gumiho was, in the Joseon dynasty in particular, almost uniformly depicted as dangerous. Modern South Korean popular culture (notably the dramas Forbidden Love / Gumiho Foxwife (2004), My Girlfriend is a Gumiho (2010), and Tale of the Nine-Tailed (2020)) has substantially rehabilitated the figure as a tragic, romantic, or even male protagonist."
     },
     "etymology": {
-      "origin": "Korean",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Korean compound from Sino-Korean numerals and characters: 구 (gu, 'nine') + 미 (mi, 'tail') + 호 (ho, 'fox'). The Hanja form 九尾狐 is shared with Chinese (jiǔwěihú).",
+      "meaning": "'Nine-tailed fox'.",
+      "first_use": "Korean literary references from the Goryeo period (c. 12th–14th c.); the shared East Asian 'nine-tailed fox' motif is older."
     }
   },
+
   "classification": {
     "taxonomy": {
-      "category": "MYTHOLOGICAL_CREATURE",
-      "type": "Unknown",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "category": "SHAPESHIFTER",
+      "type": "Fox spirit",
+      "subtype": "Nine-tailed fox",
+      "variant": "Korean (gumiho)"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "kitsune", "name": "Kitsune", "relationship": "regional_variant", "description": "Japanese fox spirit with broadly similar shapeshifting and longevity motifs" },
+      { "id": "huli-jing", "name": "Huli jing", "relationship": "regional_variant", "description": "Chinese fox spirit; shared origin of the nine-tailed motif (Daji and Su Daji legends)" },
+      { "id": "ho-ly-tinh", "name": "Hồ ly tinh", "relationship": "regional_variant", "description": "Vietnamese fox spirit" },
+      { "id": "yeowoo-guseul", "name": "Yeowoo Guseul", "relationship": "related", "description": "The 'fox marble' or 'fox bead' that gumiho carry, a recurring item in folktales" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "coloration": ["red-orange (fox form)", "white (high-status / aged variant)", "black (Won-Gwang legend)"],
+      "features": [
+        { "feature": "Nine tails", "description": "Defining feature; mark of an aged and powerful fox spirit", "frequency": "always" },
+        { "feature": "Shapeshifting into a beautiful woman", "description": "Most-cited human form; usually idealised young woman", "frequency": "always" },
+        { "feature": "Yeowoo Guseul (fox bead)", "description": "A magical pearl or marble carried in the mouth, central to many gumiho folktales (e.g. The Fox Sister)", "frequency": "common" },
+        { "feature": "Persistent canine traits when shifted", "description": "Some folktales note residual fox features (eyes, gait, single fox-tail) revealing the disguise", "frequency": "occasional" },
+        { "feature": "Pale skin", "description": "Often described in Joseon-era stories", "frequency": "common" }
+      ],
+      "morphology": "Primary form: a fox (often white) with multiple tails. Standard alternate form: a beautiful young woman, occasionally a man in modern retellings."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Shapeshifting", "description": "Can take human form, especially a beautiful woman; sometimes a male form in modern media", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Liver / heart consumption for vitality", "description": "Must consume human livers (and sometimes hearts) to sustain herself or to become fully human", "frequency": "common", "evidence_level": "folklore" },
+      { "ability": "Long life", "description": "Longevity of up to a thousand years is the precondition for the nine-tailed form", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Glamour / illusion", "description": "Casts illusions to disguise her dwelling and victims", "frequency": "common", "evidence_level": "folklore" },
+      { "ability": "Magical fox bead", "description": "Possesses the 'yeowoo guseul', conferring knowledge or power; loss of which can be fatal", "frequency": "common", "evidence_level": "folklore" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "nocturnal",
+      "disposition": "aggressive",
+      "social_structure": "solitary",
+      "habitat_preference": ["mountains", "forests", "grave mounds and burial grounds", "remote rural homes"],
+      "diet": "Particularly human livers; in some stories also hearts, and energy drawn through romantic or sexual contact",
+      "patterns": [
+        "Approaches male victims as a beautiful woman",
+        "Lives near grave mounds; often associated with cemeteries",
+        "Strives to complete a 100- or 1,000-day transformation into a human"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Korean",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Korean cultural sphere — Korean Peninsula and the Korean diaspora.",
+      "continents": ["Asia"],
+      "countries": ["South Korea", "North Korea"],
+      "regions": ["Korean Peninsula"]
     },
     "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "12th–13th century",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Samguk Sagi (1145); Samguk Yusa (c. 1281)"
+      },
+      "peak_activity_periods": [
+        { "period": "Goryeo to Joseon (10th–19th c.)", "description": "Classical literary and folktale tradition" },
+        { "period": "1990s–present", "description": "Major resurgence in South Korean television, film, and games" }
+      ]
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Korean",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Pan–East Asian nine-tailed fox tradition, sharing roots with Chinese huli jing motifs that pre-date the Common Era. In Korea, fox lore enters literary record through the early historiographies and the Buddhist tradition (Won-Gwang).",
+      "earliest_accounts": "Samguk Sagi (Kim Pusik, 1145) and Samguk Yusa (Iryeon, c. 1281) record fox-related tales of the Three Kingdoms period; nine-tailed forms become prominent in Goryeo literary references.",
+      "folklore_connections": "Linked to Korean shamanic 'mountain god' traditions, to Chinese fox-spirit tales (Su Daji), and to the wider Buddhist fascination with shapeshifting animal demons."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "1145", "event": "Samguk Sagi compiled by Kim Pusik; foxes appear in Three Kingdoms-period anecdotes", "significance": "Earliest extant Korean fox references", "source": "Samguk Sagi (1145)" },
+      { "date": "c. 1281", "event": "Samguk Yusa compiled by the monk Iryeon, including the Won-Gwang legend with a black fox mountain-deity guide", "significance": "Foundational Korean Buddhist fox-spirit narrative", "source": "Iryeon, Samguk Yusa (c. 1281)" },
+      { "date": "1168–1241", "event": "Yi Kyu-bo writes scholarly poems referencing nine-tailed foxes", "significance": "Goryeo-era literary entrenchment of the gumiho image", "source": "Yi Kyu-bo collected works" },
+      { "date": "Joseon dynasty (1392–1897)", "event": "Joseon-period folktales codify the gumiho as a malevolent female shapeshifter who eats livers; tales such as The Fox Sister and Yeowoo Guseul circulate", "significance": "Defines the classical Korean gumiho", "source": "Korean folktale collections" },
+      { "date": "1910", "event": "Im Bang and Yi Ryuk's tales (translated as Korean Folk Tales by James S. Gale, 1913) bring gumiho stories into English", "significance": "Earliest substantial English-language access", "source": "Gale, J. S. (trans.) (1913)" },
+      { "date": "2010", "event": "SBS drama My Girlfriend is a Gumiho debuts, sympathetic-romantic gumiho retelling", "significance": "Mainstreams the romanticised gumiho", "source": "SBS broadcast" },
+      { "date": "2020", "event": "tvN drama Tale of the Nine-Tailed reframes the gumiho as a male protagonist", "significance": "Major recent reinvention of the figure", "source": "tvN broadcast" }
+    ],
+    "modern_era": "The gumiho is one of the most active figures in 21st-century Korean media. K-drama, webtoons, and games (Smite, League of Legends's 'Ahri', Tale of the Nine-Tailed) have rehabilitated the gumiho as a sympathetic, frequently romantic figure; in North Korea, by contrast, fox-spirit imagery has been used for negative propaganda allegory."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
@@ -91,35 +147,108 @@
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "gumiho-evidence-samguk-yusa",
+        "type": "book",
+        "name": "Samguk Yusa",
+        "date": "c. 1281",
+        "description": "Compilation by Iryeon containing fox-spirit narratives, including the Won-Gwang legend.",
+        "status": "verified",
+        "source": "Iryeon (c. 1281), Samguk Yusa"
+      },
+      {
+        "id": "gumiho-evidence-gale-1913",
+        "type": "book",
+        "name": "Korean Folk Tales (trans. James S. Gale)",
+        "date": "1913",
+        "description": "Earliest substantial English-language collection of Korean folktales, including gumiho narratives.",
+        "status": "verified",
+        "source": "Gale, J. S. (1913)"
+      }
+    ]
   },
+
   "theories": {
-    "paranormal": [],
+    "paranormal": [
+      {
+        "name": "Spirit being / yokai-class entity",
+        "description": "Within Korean traditional belief, the gumiho is a real shapeshifting spirit of the natural and ancestral world.",
+        "proponents": ["Korean folk tradition"],
+        "evidence_cited": ["Folktales", "Shamanic narratives"]
+      }
+    ],
     "scientific": [],
-    "skeptical": []
+    "skeptical": [
+      {
+        "name": "Folklore and ideological projection",
+        "description": "Folklorists treat the gumiho as a culturally encoded figure of patriarchal anxiety: a beautiful, sexually alluring woman who is ultimately deadly. Modern (especially Joseon-era) demonisation reflects Confucian gender ideology and contrasts with the more morally ambiguous Chinese and Japanese counterparts.",
+        "proponents": ["Korean studies scholars (e.g. studies in Asian Ethnology)"],
+        "evidence_cited": ["Joseon-era didactic context", "Contrast with Korean shamanic 'fox mountain spirit' and the more positive Chinese/Japanese counterparts"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": ["Korean shamanic mountain-deity tradition", "Joseon folktale tradition"],
+      "stories": [
+        "The Fox Sister (the gumiho disguised as a younger sister, eating family livers)",
+        "Yeowoo Guseul (the magical fox bead)",
+        "Won-Gwang and the black fox mountain deity (Samguk Yusa)",
+        "Geotaji and Jakjegeon (heroes who defeat fox spirits and gain royal brides)",
+        "Gang Gam-chan tradition (general mythologised as son of a fox)"
+      ],
+      "beliefs": "Traditional belief held the gumiho to be a real and dangerous supernatural entity; modern Korean attitudes are generally folkloric rather than literal, but ritual avoidance of certain places once associated with foxes persists in rural areas."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
+      "literature": [
+        "Im Bang and Yi Ryuk, Korean Folk Tales (trans. James S. Gale, 1913)",
+        "Various Joseon-era folktale collections"
+      ],
+      "film_tv": [
+        "The Thousand Year Old Fox (1969 South Korean film)",
+        "Forbidden Love / Gumiho Foxwife (KBS2, 2004)",
+        "My Girlfriend is a Gumiho (SBS, 2010)",
+        "Gu Family Book (MBC, 2013)",
+        "Tale of the Nine-Tailed (tvN, 2020)",
+        "Tale of the Nine-Tailed 1938 (tvN, 2023)"
+      ],
+      "games": [
+        "League of Legends — Ahri (the Nine-Tailed Fox), 2011, drawing on gumiho/kitsune iconography",
+        "Smite — Da Ji",
+        "King of Fighters — Mai Shiranui (kitsune-derived)",
+        "Various Korean MMORPGs include gumiho enemies"
+      ],
+      "music": [],
+      "other": [
+        "Recurring webtoon and manhwa figure"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "James S. Gale", "affiliation": "missionary and Korean-language scholar", "contribution": "Translator of foundational English-language Korean folktale collection (1913)", "period": "1880s–1920s" },
+      { "name": "Iryeon", "affiliation": "Goryeo Buddhist monk", "contribution": "Compiler of Samguk Yusa (c. 1281) including fox-spirit narratives", "period": "13th c." }
+    ],
+    "organizations": [
+      { "name": "National Folk Museum of Korea", "url": "https://www.nfm.go.kr", "focus": "Korean folklore and material culture" }
+    ],
+    "ongoing_studies": "Active in Korean studies, folklore studies, and gender / media studies (especially around the rehabilitation of the gumiho in 21st-century K-drama)."
   },
-  "sources": []
+
+  "sources": [
+    { "id": "wikipedia-kumiho", "type": "website", "title": "Kumiho", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Kumiho", "accessed": "2026-05-07" },
+    { "id": "samguk-yusa", "type": "book", "title": "Samguk Yusa", "authors": ["Iryeon"], "date": "c. 1281" },
+    { "id": "samguk-sagi", "type": "book", "title": "Samguk Sagi", "authors": ["Kim Pusik"], "date": "1145" },
+    { "id": "gale-1913", "type": "book", "title": "Korean Folk Tales: Imps, Ghosts and Fairies", "authors": ["Im Bang", "Yi Ryuk"], "publication": "J. M. Dent / E. P. Dutton", "date": "1913", "notes": "Translated by James S. Gale" }
+  ]
 }

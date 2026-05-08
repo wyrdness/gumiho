@@ -1,438 +1,172 @@
-# Gumiho (구미호)
+# Gumiho
 
-## Overview
-The gumiho is a legendary nine-tailed fox from Korean mythology, distinct from its Chinese (huli jing) and Japanese (kitsune) counterparts. In Korean folklore, the gumiho is traditionally portrayed as a malevolent creature that preys on humans, particularly targeting men. Unlike the potentially benevolent foxes of Chinese and Japanese traditions, Korean gumiho are almost universally depicted as dangerous predators that must consume human flesh or organs, especially livers or hearts, to survive or become human.
+> The gumiho is a nine-tailed fox spirit of Korean folklore, typically depicted as a shapeshifting woman who feeds on humans — particularly their livers or hearts — to sustain or transform her supernatural existence.
 
-**Category**: MYTHOLOGICAL_CREATURE  
-**Cultural Origin**: Korean  
-**Danger Level**: High  
-**Active Period**: Throughout history, primarily at night  
-
-## Description
-
-### Physical Characteristics
-- **Fox Form**: Beautiful nine-tailed fox with lustrous fur, typically white or red
-- **Human Form**: Exceptionally beautiful woman, often with an otherworldly allure
-- **Eyes**: May glow in darkness or reveal fox-like pupils upon close inspection
-- **Tails**: Nine long, flowing tails that betray its true nature
-- **Size**: In fox form, larger than natural foxes; in human form, appears as an adult woman
-- **Distinguishing Features**: Fox bead (yeowu guseul) that contains its power
-
-### Behavioral Traits
-- **Predatory Nature**: Actively hunts humans, particularly men
-- **Seduction**: Uses beauty and charm to lure victims
-- **Organ Consumption**: Must eat human livers or hearts to maintain power
-- **Shapeshifting**: Can transform between fox and human forms
-- **Longevity**: Lives for centuries or millennia, growing more powerful with age
-- **Intelligence**: Highly cunning and manipulative
-- **Vulnerability**: Fox bead can be stolen; true form revealed by mirrors or dogs
-
-## Historical Accounts
-
-### Classical Literature
-The gumiho appears extensively in Korean classical literature dating back to the Three Kingdoms period (57 BCE - 668 CE). The "Samguk Yusa" (Memorabilia of the Three Kingdoms), compiled in the 13th century, contains one of the earliest written accounts of a gumiho disguised as a beautiful woman who seduced King Suro's ministers.
-
-### Joseon Dynasty Records (1392-1897)
-During the Joseon Dynasty, numerous records documented gumiho encounters:
-- Court records from 1567 describe a village where three men disappeared after being seduced by a beautiful woman, later revealed as a gumiho
-- A 1623 account tells of a Buddhist monk who identified a gumiho in human form at a royal banquet
-- Provincial records from 1789 detail a hunting party that tracked and killed a nine-tailed fox near Mount Jiri
-
-### Folk Tales and Oral Traditions
-Korean folklore preserves hundreds of gumiho stories passed down through generations:
-- Tales of young men warned by wise elders to avoid beautiful strangers
-- Stories of shamans and monks who could detect gumiho in human form
-- Accounts of entire families destroyed by gumiho over generations
-- Legends of rare gumiho who fell in love and sought to become truly human
-
-## Cultural Significance
-
-### Korean Shamanism (Muism)
-In Korean shamanic tradition, the gumiho represents:
-- The dangerous power of transformation and deception
-- The boundary between human and animal realms
-- The consequences of unbridled desire and temptation
-- Tests of moral character and wisdom
-
-Shamans developed specific rituals to:
-- Detect gumiho presence
-- Protect communities from fox spirits
-- Exorcise fox spirit possession
-- Prevent transformation of ordinary foxes into gumiho
-
-### Confucian Interpretation
-During the Joseon Dynasty, Confucian scholars interpreted gumiho tales as:
-- Moral warnings against succumbing to physical desire
-- Lessons about the dangers of beautiful appearances
-- Allegories about political manipulation and corruption
-- Cautionary tales about maintaining social propriety
-
-### Modern Cultural Impact
-The gumiho remains prominent in contemporary Korean culture:
-- Major theme in Korean literature, film, and television
-- Symbol in Korean video games and manhwa (comics)
-- Tourist attractions at locations associated with gumiho legends
-- Subject of academic study in Korean folklore departments
-
-## Transformation Lore
-
-### Becoming a Gumiho
-According to traditional beliefs, a fox becomes a gumiho by:
-- Living for one thousand years and gaining supernatural powers
-- Absorbing energy from the sun and moon over centuries
-- Consuming the spiritual essence of other creatures
-- Surviving near sacred mountains or temples for extended periods
-
-### The Path to Humanity
-Some legends describe ways a gumiho might become human:
-- Abstaining from eating human flesh for one thousand days
-- Performing good deeds without being discovered
-- Having their fox bead voluntarily swallowed by a human who survives
-- Earning genuine love from a human who knows their true nature
-
-However, most Korean traditions consider this transformation impossible, emphasizing the gumiho's irredeemably predatory nature.
-
-## Detection and Protection
-
-### Traditional Methods of Detection
-Korean folklore provides numerous ways to identify a gumiho:
-- **Mirrors**: Reflect the fox's true form
-- **Dogs**: React with extreme aggression and fear
-- **Shadow**: May appear as fox shadow even in human form
-- **Behavior**: Cannot perfectly replicate human customs
-- **Physical signs**: Fox scent, pointed ears, or inability to eat certain foods
-
-### Protection Methods
-Traditional protective measures include:
-- Carrying dog fur or dog teeth as talismans
-- Placing mirrors at strategic locations
-- Burning mugwort to repel fox spirits
-- Buddhist sutras and shamanic charms
-- Avoiding solitary encounters with beautiful strangers
-- Seeking help from monks or shamans
-
-### Defeating a Gumiho
-Korean legends describe several methods:
-- Stealing the fox bead when the gumiho removes it to clean
-- Trapping the gumiho in sacred spaces or Buddhist temples
-- Forcing it to reveal its true form through specific rituals
-- Hunting the fox form with blessed weapons
-- Enlisting multiple dogs to track and corner the creature
-
-## Regional Variations
-
-### Northern Korean Traditions
-In northern regions near the Chinese border:
-- Gumiho stories sometimes show minor Chinese influences
-- Greater emphasis on the fox bead's magical properties
-- Tales of gumiho battles with tiger spirits
-- Connections to mountain spirit worship
-
-### Southern Korean Traditions
-Southern regions developed distinct characteristics:
-- Association with coastal cliffs and islands
-- Stories of gumiho drowning victims at sea
-- Connection to female shamans and spiritual possession
-- Integration with local dragon and serpent legends
-
-### Jeju Island Variations
-Korea's Jeju Island preserves unique gumiho traditions:
-- Fewer tales due to geographic isolation
-- Blending with local volcanic spirit beliefs
-- Stories of gumiho arriving by boat from the mainland
-- Unique protective rituals specific to island culture
-
-## The Fox Bead (Yeowu Guseul)
-
-### Description and Powers
-The fox bead is a magical pearl-like object that:
-- Contains the gumiho's accumulated power
-- Glows with supernatural light
-- Grants wishes if possessed by a human
-- Allows the gumiho to maintain human form
-- Stores the essence of consumed souls
-
-### Bead Legends
-Numerous tales revolve around the fox bead:
-- Stories of humans accidentally swallowing beads and gaining powers
-- Accounts of gumiho desperately searching for stolen beads
-- Legends of beads passed down as family heirlooms
-- Tales of beads causing madness or transformation in human possessors
-
-### Cultural Symbolism
-The fox bead represents:
-- The source of supernatural power
-- The price of immortality and transformation
-- Temptation and dangerous knowledge
-- The accumulation of stolen life force
-
-## Comparative Mythology
-
-### Versus Chinese Huli Jing
-Key differences from Chinese fox spirits:
-- **Morality**: Korean gumiho inherently evil; Chinese huli jing morally ambiguous
-- **Transformation**: Gumiho struggles to become human; huli jing more easily achieves humanity
-- **Cultural role**: Korean version serves as warning; Chinese version more complex
-- **Redemption**: Korean tradition offers little hope; Chinese allows moral growth
-
-### Versus Japanese Kitsune
-Distinctions from Japanese fox spirits:
-- **Alignment**: Gumiho malevolent; kitsune can be benevolent or neutral
-- **Service**: Kitsune often serve Inari deity; gumiho serve only themselves
-- **Relationships**: Kitsune may marry humans happily; gumiho relationships end in tragedy
-- **Cultural perception**: Kitsune respected and honored; gumiho feared and hunted
-
-### Unique Korean Elements
-Distinctly Korean characteristics:
-- Exclusive focus on predatory nature
-- Emphasis on consuming human organs
-- Impossibility of true redemption
-- Strong Buddhist and Confucian moral overtones
-
-## Modern Interpretations
-
-### Contemporary Literature
-Modern Korean authors have reimagined the gumiho:
-- Sympathetic protagonists struggling with their nature
-- Urban fantasy settings with hidden fox spirits
-- Romantic storylines exploring forbidden love
-- Detective stories featuring gumiho characters
-
-### Television and Film
-The gumiho features prominently in Korean media:
-- **"My Girlfriend is a Gumiho" (2010)**: Romantic comedy drama
-- **"Gu Family Book" (2013)**: Historical fantasy series
-- **"Tale of the Nine-Tailed" (2020-2023)**: Modern fantasy drama series
-- Numerous films exploring horror and romance themes
-
-### Video Games and Comics
-Digital media representations include:
-- Playable characters in Korean MMORPGs
-- Antagonists in mobile games
-- Protagonists in popular manhwa series
-- Integration into Korean game mythology systems
-
-## Academic Study
-
-### Folklore Scholarship
-Korean folklorists analyze gumiho legends for:
-- Insights into traditional gender roles and expectations
-- Evolution of Korean cultural identity
-- Influence of Chinese and Japanese cultural exchange
-- Shamanic and Buddhist syncretism
-
-### Psychological Interpretation
-Modern scholars view gumiho tales as:
-- Expressions of male anxiety about female sexuality
-- Warnings about trusting appearances
-- Metaphors for social manipulation and betrayal
-- Processing of fear regarding the unknown
-
-### Comparative Studies
-International researchers examine:
-- Global fox spirit traditions across cultures
-- Korean cultural distinctiveness within East Asia
-- Impact of Confucian philosophy on folklore
-- Modern reinterpretation and cultural preservation
-
-## Tourism and Popular Culture
-
-### Gumiho Tourism Sites
-Several Korean locations attract visitors interested in gumiho lore:
-- **Mount Jiri**: Site of numerous historical sightings
-- **Gyeongju**: Ancient capital with rich gumiho legends
-- **Namsan Mountain (Seoul)**: Urban fox spirit tales
-- **Various Buddhist temples**: Sites of exorcism rituals
-
-### Cultural Festivals
-Some regions celebrate fox spirit traditions:
-- Folk tale festivals featuring gumiho performances
-- Traditional mask dances depicting fox spirits
-- Shamanic ritual demonstrations
-- Historical reenactments of famous legends
-
-### Merchandise and Media
-Commercial products include:
-- Gumiho-themed jewelry and fashion
-- Collectible figurines and art
-- Themed cafes and restaurants
-- Tourist souvenirs at folklore museums
-
-## Symbolism and Themes
-
-### Beauty and Danger
-The gumiho embodies the theme that:
-- External beauty may conceal deadly danger
-- Attraction can lead to destruction
-- Appearances deceive even the wise
-- Temptation must be resisted through vigilance
-
-### Transformation and Identity
-The creature explores concepts of:
-- The impossibility of changing one's true nature
-- The price of immortality and power
-- The boundary between human and animal
-- The desire for transformation and its consequences
-
-### Predation and Survival
-Gumiho tales reflect:
-- The natural world's predatory relationships
-- Survival requiring consumption of others
-- The moral implications of necessary evil
-- The cycle of hunter and hunted
-
-## Contemporary Relevance
-
-### Modern Interpretations
-Contemporary Korean society views the gumiho as:
-- A symbol of Korean cultural heritage
-- A flexible metaphor for modern concerns
-- Entertainment and storytelling inspiration
-- Subject of ongoing cultural reinterpretation
-
-### Feminist Readings
-Modern scholars offer feminist interpretations:
-- Gumiho as embodiment of patriarchal fears
-- Powerful female figure despite negative portrayal
-- Reclaiming the gumiho as symbol of female agency
-- Critiquing traditional gender dynamics in folklore
-
-### Cultural Preservation
-Efforts to preserve gumiho traditions include:
-- Academic documentation of oral tales
-- Integration into national cultural heritage programs
-- Educational programs in schools
-- Digital archiving of stories and performances
-
-## Scientific Perspectives
-
-### Zoological Basis
-The gumiho legend may derive from:
-- Observations of actual fox behavior and intelligence
-- Fox adaptability and survival in human proximity
-- Natural fox vocalizations resembling human sounds
-- Cultural fear of wild predators
-
-### Psychological Explanation
-Psychologists suggest gumiho legends reflect:
-- Projection of human fears and desires
-- Cultural mechanisms for social control
-- Processing of trauma and unexplained deaths
-- Archetypal imagery in collective unconscious
-
-### Sociological Function
-The gumiho myth serves to:
-- Reinforce social norms and boundaries
-- Warn against dangerous social situations
-- Process cultural anxieties about change
-- Maintain gender roles and expectations
-
-## Related Entities
-
-### Korean Mythology
-Other Korean creatures share characteristics:
-- **Dokkaebi**: Mischievous goblin spirits
-- **Bulgae**: Fire dogs that chase the sun
-- **Haetae**: Lion-like guardian beasts
-- **Samjoko**: Three-legged crows
-
-### East Asian Fox Spirits
-Related traditions include:
-- Chinese huli jing and jiuweihu
-- Japanese kitsune and nogitsune
-- Vietnamese hồ ly tinh
-- Various Southeast Asian fox legends
-
-### Shapeshifter Traditions
-Global shapeshifting creatures include:
-- European werewolves
-- Native American skin-walkers
-- South American encantados
-- African were-animals
-
-## Sources and References
-
-### Historical Texts
-1. "Samguk Yusa" (Memorabilia of the Three Kingdoms, 1281)
-2. "Goryeosa" (History of Goryeo, 1451)
-3. "Dongguk Yeoji Seungram" (Survey of the Geography of Korea, 1481)
-4. "Eo Yu Yadam" (Unofficial Histories, 1866)
-5. Various Joseon Dynasty court records and provincial annals
-
-### Scholarly Works
-6. Choi, In-hak. "The Nine-Tailed Fox in Korean Folklore" (Seoul National University Press, 2003)
-7. Kim, Yeol-gyu. "Korean Shamanism and Fox Spirits" (Minsokwon Publishers, 2008)
-8. Park, Mi-kyung. "Gender and Transformation in Korean Folktales" (Yonsei University Press, 2011)
-9. Lee, Sang-il. "Comparative Study of East Asian Fox Legends" (Korean Studies Institute, 2015)
-10. Jung, Yoon-su. "The Gumiho in Contemporary Korean Media" (Hallyu Research Center, 2019)
-
-### Anthropological Studies
-11. Kendall, Laurel. "Shamans, Housewives, and Other Restless Spirits" (University of Hawaii Press, 1985)
-12. Howard, Keith. "Korean Shamanism: Revivals, Survivals, and Change" (Royal Asiatic Society, 1998)
-13. Guillemoz, Alexandre. "Korean Shamanism and Cultural Nationalism" (Seoul National University, 1991)
-14. Kim, Tae-gon. "Korean Folklore Studies" (Korea University Press, 1993)
-15. Walraven, Boudewijn. "Songs of the Shaman: The Ritual Chants of Korean Mudang" (Routledge, 2014)
-
-### Folklore Collections
-16. Zong, In-Sob. "Folk Tales from Korea" (Routledge & Kegan Paul, 1952)
-17. Allen, Horace. "Korean Tales" (G.P. Putnam's Sons, 1889)
-18. Im, Bang & Yi, Ryuk. "Korean Oral Literature" (Harvard-Yenching Institute, 1964)
-19. National Folk Museum of Korea. "Encyclopedia of Korean Folk Literature" (2013)
-20. Academy of Korean Studies. "Digital Archive of Korean Folk Tales" (2005-present)
-
-### Modern Media Studies
-21. Choe, Hye-sil. "K-Drama and Traditional Folklore" (Korea Creative Content Agency, 2018)
-22. Shin, Ji-young. "The Gumiho in Korean Popular Culture" (Seoul Arts Center, 2016)
-23. Yang, Jong-seong. "From Folklore to Fantasy: Korean TV Dramas" (Communications Books, 2020)
-24. Park, Hye-jin. "Mythical Creatures in Korean Webtoons" (Naver Content Research, 2021)
-25. Kim, So-ra. "Tale of the Nine-Tailed: Cultural Analysis" (Korean Broadcasting Research, 2021)
-
-### Comparative Mythology
-26. Kang, Hye-won. "Fox Spirits Across East Asia" (Comparative Literature Press, 2012)
-27. Huntington, Rania. "Alien Kind: Foxes and Late Imperial Chinese Narrative" (Harvard, 2003)
-28. Bathgate, Michael. "The Fox's Craft in Japanese Religion and Folklore" (Routledge, 2004)
-29. Cho, Seon-mi. "Korean Gumiho and Chinese Huli Jing: A Comparative Study" (2014)
-30. Hyun, Yong-jun. "The Nine-Tailed Fox: Cultural Divergence in East Asia" (2017)
-
-### Religious Studies
-31. Baker, Don. "Korean Spirituality" (University of Hawaii Press, 2008)
-32. Buswell, Robert. "Religions of Korea in Practice" (Princeton University Press, 2007)
-33. Grayson, James. "Korea: A Religious History" (Routledge, 2002)
-34. Muller, Charles. "Korean Buddhism: History-Condition-Art" (Seoul International Publishing, 1985)
-35. Kister, Daniel. "Korean Shamanist Ritual" (Hollym International, 1997)
-
-### Gender Studies
-36. Kim, Elaine. "Dangerous Women: Gender and Korean Nationalism" (Routledge, 1998)
-37. Park, Chan E. "Voices from the Straw Mat: Korean Women's Folk Tales" (State University of New York, 2011)
-38. Lee, Jeong-hee. "Female Imagery in Korean Folklore" (Ehwa Women's University Press, 2009)
-39. Chung, Chin-sung. "Women's Unwritten History" (Seoul Selection, 2013)
-40. Han, Sang-bok. "Female Power and Korean Shamanic Tradition" (Korea Journal, 1995)
-
-### Contemporary Studies
-41. Lim, Sun-Sun. "Hallyu and Korean Cultural Heritage" (National University of Singapore, 2019)
-42. Oh, Ingyu. "Globalization of Korean Popular Culture" (Korean Culture and Arts Foundation, 2013)
-43. Jung, Eun-young. "K-Pop, Korean Popular Music: The Culture, the Business" (Hollym, 2011)
-44. Shim, Doobo. "Hybridity and the Rise of Korean Popular Culture in Asia" (Media, Culture & Society, 2006)
-45. Kim, Youna. "Media Consumption and Everyday Life in Asia" (Routledge, 2008)
-
-### Digital Resources
-46. Korean Studies Information Service System (KISS) Database
-47. National Library of Korea Digital Collections
-48. Korea Creative Content Agency (KOCCA) Research Archives
-49. Digital Hangeul Museum Folklore Section
-50. Seoul National University Korean Folklore Archive
-
-### Additional Academic Sources
-51. Journal of Korean Religions - Various articles on fox spirits (2000-2023)
-52. Korean Studies Journal - Folklore editions (1990-2023)
-53. Asian Folklore Studies - Korean contributions (1980-2023)
-54. Korea Journal - Special issues on mythology (1970-2023)
-55. Transactions of the Royal Asiatic Society Korea Branch - Historical accounts
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
+## Quick Reference
 
-*Last Updated: 2026-01-14*  
-*Version: 1.0.0*  
-*Category: MYTHOLOGICAL_CREATURE*  
-*Cultural Origin: Korean*
+| Property | Value |
+|---|---|
+| **ID** | `gumiho` |
+| **Category** | SHAPESHIFTER |
+| **Subcategory** | Fox spirit (Korean) |
+| **First recorded** | 1145 |
+| **Primary range** | Korean cultural sphere — Korean Peninsula and the Korean diaspora |
+| **Status** | documented |
 
+---
+## Overview
+
+The gumiho (Korean 구미호 / Hanja 九尾狐, 'nine-tailed fox') is the Korean variant of the East Asian nine-tailed fox spirit, sharing a common ancestry with the Chinese huli jing and Japanese kitsune but developing distinctive Korean features under successive Buddhist, shamanist, and Confucian influences. Earliest references appear in the 12th-century Samguk Sagi and the 13th-century Samguk Yusa, where foxes function variously as omens, mountain-deity helpers, and shapeshifting tricksters. The specifically nine-tailed form becomes prominent from the Goryeo period onward, including in the writings of Yi Kyu-bo (1168–1241). In classical Korean folktales the gumiho is overwhelmingly a malevolent figure: a thousand-year-old fox capable of taking the form of a beautiful woman, who must consume human flesh — most famously the liver — to survive or to complete her transformation into a human being. Where the Chinese huli jing and Japanese kitsune span benevolent and malevolent roles, the Korean gumiho was, in the Joseon dynasty in particular, almost uniformly depicted as dangerous. Modern South Korean popular culture (notably the dramas Forbidden Love / Gumiho Foxwife (2004), My Girlfriend is a Gumiho (2010), and Tale of the Nine-Tailed (2020)) has substantially rehabilitated the figure as a tragic, romantic, or even male protagonist.
+
+---
+## Names & Aliases
+
+| Name | Origin | Meaning |
+|---|---|---|
+| 구미호 | Korean (Hangul) | 'nine-tailed fox' |
+| 九尾狐 | Korean (Hanja) | literally 'nine-tail fox' |
+| Kumiho | Korean (McCune–Reischauer romanization) |  |
+| Huli jing | Chinese / China | Chinese counterpart fox spirit |
+| Kitsune | Japanese / Japan | Japanese counterpart fox spirit |
+| Hồ ly tinh | Vietnamese / Vietnam | Vietnamese counterpart fox spirit |
+
+## Etymology
+
+- **Origin**: Korean compound from Sino-Korean numerals and characters: 구 (gu, 'nine') + 미 (mi, 'tail') + 호 (ho, 'fox'). The Hanja form 九尾狐 is shared with Chinese (jiǔwěihú).
+- **Meaning**: 'Nine-tailed fox'.
+- **First use**: Korean literary references from the Goryeo period (c. 12th–14th c.); the shared East Asian 'nine-tailed fox' motif is older.
+
+---
+## Related Phenomena
+
+- [Kitsune](../kitsune/) — _regional_variant_: Japanese fox spirit with broadly similar shapeshifting and longevity motifs
+- [Huli jing](../huli-jing/) — _regional_variant_: Chinese fox spirit; shared origin of the nine-tailed motif (Daji and Su Daji legends)
+- [Hồ ly tinh](../ho-ly-tinh/) — _regional_variant_: Vietnamese fox spirit
+- [Yeowoo Guseul](../yeowoo-guseul/) — _related_: The 'fox marble' or 'fox bead' that gumiho carry, a recurring item in folktales
+
+---
+## Physical Description
+
+- **Coloration**: red-orange (fox form), white (high-status / aged variant), black (Won-Gwang legend)
+- **Morphology**: Primary form: a fox (often white) with multiple tails. Standard alternate form: a beautiful young woman, occasionally a man in modern retellings.
+
+### Features
+
+| Feature | Description | Frequency |
+|---|---|---|
+| Nine tails | Defining feature; mark of an aged and powerful fox spirit | always |
+| Shapeshifting into a beautiful woman | Most-cited human form; usually idealised young woman | always |
+| Yeowoo Guseul (fox bead) | A magical pearl or marble carried in the mouth, central to many gumiho folktales (e.g. The Fox Sister) | common |
+| Persistent canine traits when shifted | Some folktales note residual fox features (eyes, gait, single fox-tail) revealing the disguise | occasional |
+| Pale skin | Often described in Joseon-era stories | common |
+
+## Reported Abilities
+
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Shapeshifting | Can take human form, especially a beautiful woman; sometimes a male form in modern media | always | folklore |
+| Liver / heart consumption for vitality | Must consume human livers (and sometimes hearts) to sustain herself or to become fully human | common | folklore |
+| Long life | Longevity of up to a thousand years is the precondition for the nine-tailed form | always | folklore |
+| Glamour / illusion | Casts illusions to disguise her dwelling and victims | common | folklore |
+| Magical fox bead | Possesses the 'yeowoo guseul', conferring knowledge or power; loss of which can be fatal | common | folklore |
+
+## Behavior
+
+- **Activity**: nocturnal
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: mountains, forests, grave mounds and burial grounds, remote rural homes
+- **Diet**: Particularly human livers; in some stories also hearts, and energy drawn through romantic or sexual contact
+
+---
+## Distribution
+
+Korean cultural sphere — Korean Peninsula and the Korean diaspora.
+
+
+---
+## Historical Timeline
+
+| Date | Event | Significance |
+|---|---|---|
+| 1145 | Samguk Sagi compiled by Kim Pusik; foxes appear in Three Kingdoms-period anecdotes | Earliest extant Korean fox references |
+| c. 1281 | Samguk Yusa compiled by the monk Iryeon, including the Won-Gwang legend with a black fox mountain-deity guide | Foundational Korean Buddhist fox-spirit narrative |
+| 1168–1241 | Yi Kyu-bo writes scholarly poems referencing nine-tailed foxes | Goryeo-era literary entrenchment of the gumiho image |
+| Joseon dynasty (1392–1897) | Joseon-period folktales codify the gumiho as a malevolent female shapeshifter who eats livers; tales such as The Fox Sister and Yeowoo Guseul circulate | Defines the classical Korean gumiho |
+| 1910 | Im Bang and Yi Ryuk's tales (translated as Korean Folk Tales by James S. Gale, 1913) bring gumiho stories into English | Earliest substantial English-language access |
+| 2010 | SBS drama My Girlfriend is a Gumiho debuts, sympathetic-romantic gumiho retelling | Mainstreams the romanticised gumiho |
+| 2020 | tvN drama Tale of the Nine-Tailed reframes the gumiho as a male protagonist | Major recent reinvention of the figure |
+
+## Evidence
+
+### Documentary
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Samguk Yusa | c. 1281 | Compilation by Iryeon containing fox-spirit narratives, including the Won-Gwang legend. | verified |
+| Korean Folk Tales (trans. James S. Gale) | 1913 | Earliest substantial English-language collection of Korean folktales, including gumiho narratives. | verified |
+
+---
+## Theories & Explanations
+
+### Paranormal / Cryptozoological
+
+**Spirit being / yokai-class entity** _(Korean folk tradition)_
+
+Within Korean traditional belief, the gumiho is a real shapeshifting spirit of the natural and ancestral world.
+
+### Skeptical
+
+**Folklore and ideological projection** _(Korean studies scholars (e.g. studies in Asian Ethnology))_
+
+Folklorists treat the gumiho as a culturally encoded figure of patriarchal anxiety: a beautiful, sexually alluring woman who is ultimately deadly. Modern (especially Joseon-era) demonisation reflects Confucian gender ideology and contrasts with the more morally ambiguous Chinese and Japanese counterparts.
+
+
+## Popular Culture
+
+**Literature**: Im Bang and Yi Ryuk, Korean Folk Tales (trans. James S. Gale, 1913); Various Joseon-era folktale collections
+
+**Film / TV**: The Thousand Year Old Fox (1969 South Korean film); Forbidden Love / Gumiho Foxwife (KBS2, 2004); My Girlfriend is a Gumiho (SBS, 2010); Gu Family Book (MBC, 2013); Tale of the Nine-Tailed (tvN, 2020); Tale of the Nine-Tailed 1938 (tvN, 2023)
+
+**Games**: League of Legends — Ahri (the Nine-Tailed Fox), 2011, drawing on gumiho/kitsune iconography; Smite — Da Ji; King of Fighters — Mai Shiranui (kitsune-derived); Various Korean MMORPGs include gumiho enemies
+
+**Other**: Recurring webtoon and manhwa figure
+
+---
+## Research
+
+### Researchers
+
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| James S. Gale | missionary and Korean-language scholar | Translator of foundational English-language Korean folktale collection (1913) | 1880s–1920s |
+| Iryeon | Goryeo Buddhist monk | Compiler of Samguk Yusa (c. 1281) including fox-spirit narratives | 13th c. |
+
+### Organizations
+
+- [National Folk Museum of Korea](https://www.nfm.go.kr) — Korean folklore and material culture
+
+Active in Korean studies, folklore studies, and gender / media studies (especially around the rehabilitation of the gumiho in 21st-century K-drama).
+
+---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
+## License
+
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
+
+---
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
